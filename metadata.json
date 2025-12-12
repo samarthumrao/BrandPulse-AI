@@ -1,0 +1,5 @@
+{
+  "name": " BrandPulse AI",
+  "description": "Real-time social media sentiment analysis dashboard using Google Search Grounding to aggregate and analyze live web data.",
+  "requestFramePermissions": []
+}
